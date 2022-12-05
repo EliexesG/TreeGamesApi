@@ -6,7 +6,8 @@
             "video": "https://drive.google.com/uc?export=download&id=10VeL7hqiHeesVXLiso3uGnoPbbQfUhQ2",
             "nombre": "HydroLand",
             "descripcion": "Cuida del agua, ayuda a una semilla a obtener agua y crecer, se el heroe",
-            "fechaSalida": "Agosto 2023"
+            "fechaSalida": "Agosto 2023",
+            "cancion": "https://docs.google.com/uc?export=download&id=1qrC9zgm8Xd4tdgJdVbKwHgJSpfuopcjF"
         },
         {
             "id": 2,
@@ -14,7 +15,8 @@
             "video": "https://drive.google.com/uc?export=download&id=1-Id6S5jqcP9Uh4Igfu5tYBYwR87oFRb_",
             "nombre": "Shooting Astro",
             "descripcion": "Esta es la aventura de un superviviente de la guerra Astro, lucha por tu ¡LIBERTAD!",
-            "fechaSalida": "Aún no disponible"
+            "fechaSalida": "Aún no disponible",
+            "cancion": "https://docs.google.com/uc?export=download&id=1UH2stbe82CCTjoZrmc9htc3IZnuw-h5U"
         },
         {
             "id": 3,
@@ -22,7 +24,8 @@
             "video": "https://drive.google.com/uc?export=download&id=1YK46WGii6Yc35E-BxZlATKK-Jney4QoP",
             "nombre": "JellyBoy",
             "descripcion": "Un niño convertido en una biscosa masa tiene que buscar al mago que lo convirtió, para así liberar el hechizo",
-            "fechaSalida": "Aún no disponible"
+            "fechaSalida": "Aún no disponible",
+            "cancion": "https://docs.google.com/uc?export=download&id=1d7Tx6skNT3e29YwRorVOQq9iM31bOTEd"
         }
     ],
     "integrantes": [
